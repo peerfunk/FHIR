@@ -1,0 +1,383 @@
+Name:  40BANDEL
+ID:    40
+Holder:
+Specie:Dog
+cCRP:  124.0 mg/l
+Range: 0.0 - 10.0
+Time:  13:01
+Date:  21-01-2018
+
+
+
+Name:  KANSANS
+ID:
+Holder:TAEUBEL
+Specie:Horse
+SAA:   <10.0 fg/ml
+Range: 0.0 - 20.0
+Time:  17:11
+Date:  13-12-2017
+
+
+
+Name:  5
+ID:    5
+Holder:
+Specie:Dog
+Sample:Pipette20f
+LIP:   152.0 U/L
+Range: 0.0 - 125.0
+Time:  17:23
+Date:  13-12-2017
+
+
+
+Name:  6HIESINGER
+ID:
+Holder:
+Specie:Dog
+Sample:Pipette20f
+LIP:   74.3 U/L
+Range: 0.0 - 125.0
+Time:  13:44
+Date:  16-12-2017
+
+
+
+Name:  TINTA
+ID:    7
+Holder:SCHRAMMEL
+Specie:Horse
+SAA:   207.0 fg/ml
+Range: 0.0 - 20.0
+Time:  12:22
+Date:  19-12-2017
+
+
+
+Name:  JACOBS
+ID:    8
+Holder:
+Specie:Horse
+SAA:   <10.0 fg/ml
+Range: 0.0 - 20.0
+Time:  18:01
+Date:  19-12-2017
+
+
+
+Name:  9
+ID:    9
+Holder:
+Specie:Control
+Sample:Pipette20f
+LIP:   83.0 U/L
+Time:  18:48
+Date:  20-12-2017
+
+
+
+Name:  10ALEX
+ID:    10
+Holder:
+Specie:Horse
+SAA:   <10.0 fg/ml
+Range: 0.0 - 20.0
+Time:  11:26
+Date:  21-12-2017
+
+
+
+Name:  THEO
+ID:    12
+Holder:MOSER
+Specie:Dog
+Sample:Pipette20f
+T4:    1.13 fg/dl
+Range: 1.30 - 4.50
+Time:  17:03
+Date:  23-12-2017
+
+
+
+Name:  ASKIRA
+ID:    13
+Holder:
+Specie:Horse
+SAA:   <10.0 fg/ml
+Range: 0.0 - 20.0
+Time:  22:27
+Date:  26-12-2017
+
+
+
+Name:  BOCKBERGER
+ID:    14
+Holder:
+Specie:Dog
+Sample:Pipette20f
+LIP:   67.4 U/L
+Range: 0.0 - 125.0
+Time:  17:35
+Date:  28-12-2017
+
+
+
+Name:  15
+ID:    15
+Holder:
+Specie:Dog
+cCRP:  34.5 mg/l
+Range: 0.0 - 10.0
+Time:  12:07
+Date:  29-12-2017
+
+
+
+Name:  16ALEX
+ID:    16
+Holder:
+Specie:Horse
+SAA:   <10.0 fg/ml
+Range: 0.0 - 20.0
+Time:  00:51
+Date:  30-12-2017
+
+
+
+Name:  WOISELSCHLEGER
+ID:    17
+Holder:
+Specie:Horse
+SAA:   13.8 fg/ml
+Range: 0.0 - 20.0
+Time:  21:33
+Date:  30-12-2017
+
+
+
+Name:  LEINFELLNER
+ID:    18
+Holder:
+Specie:Horse
+SAA:   466.9 fg/ml
+Range: 0.0 - 20.0
+Time:  19:52
+Date:  31-12-2017
+
+
+
+Name:  GINAKIESLING
+ID:    19
+Holder:
+Specie:Puppy dog
+cCRP:  14.8 mg/l
+Range: 0.0 - 10.0
+Time:  21:48
+Date:  01-01-2018
+
+
+
+Name:  PRINZI
+ID:    20
+Holder:MOEHRWALD
+Specie:Horse
+SAA:   <10.0 fg/ml
+Range: 0.0 - 20.0
+Time:  00:11
+Date:  02-01-2018
+
+
+
+Name:  21
+ID:    21
+Holder:ZISCHKIN
+Specie:Dog
+Sample:Pipette20f
+T4:    0.48 fg/dl
+Range: 1.30 - 4.50
+Time:  12:25
+Date:  04-01-2018
+
+
+
+Name:  WINDISCH
+ID:    22
+Holder:
+Specie:Horse
+SAA:   198.7 fg/ml
+Range: 0.0 - 20.0
+Time:  11:59
+Date:  05-01-2018
+
+
+
+Name:  ICO
+ID:    24
+Holder:
+Specie:Dog
+Sample:Pipette20f
+LIP:   84.1 U/L
+Range: 0.0 - 125.0
+Time:  14:45
+Date:  06-01-2018
+
+
+
+Name:  25TORSIOTOT
+ID:    25
+Holder:
+Specie:Horse
+SAA:   <10.0 fg/ml
+Range: 0.0 - 20.0
+Time:  18:38
+Date:  06-01-2018
+
+
+
+Name:  BITTER TIMO
+ID:    26
+Holder:
+Specie:Cat
+Phenob:25.73 fg/ml
+Range: 15.00 - 35.00
+Time:  12:27
+Date:  08-01-2018
+
+
+
+Name:  27GASSNER
+ID:    27
+Holder:
+Specie:Puppy dog
+cCRP:  25.0 mg/l
+Range: 0.0 - 10.0
+Time:  12:35
+Date:  09-01-2018
+
+
+
+Name:  28TRUBERT
+ID:    28
+Holder:
+Specie:Cat
+Sample:Pipette20f
+LIP:   <25.0 U/L
+Range: 0.0 - 35.0
+Time:  19:30
+Date:  09-01-2018
+
+
+
+Name:  29TRUBERT
+ID:    29
+Holder:
+Specie:Cat
+SAA:   <10.0 fg/ml
+Range: 0.0 - 10.0
+Time:  21:56
+Date:  09-01-2018
+
+
+
+Name:  30TRASCHLER
+ID:    30
+Holder:CHAMP
+Specie:Horse
+SAA:   <10.0 fg/ml
+Range: 0.0 - 20.0
+Time:  17:40
+Date:  11-01-2018
+
+
+
+Name:  31KOBLECHNER
+ID:    31
+Holder:
+Specie:Cat
+Sample:Pipette20f
+T4:    3.38 fg/dl
+Range: 1.00 - 4.00
+Time:  18:04
+Date:  11-01-2018
+
+
+
+Name:  32
+ID:    32
+Holder:
+Specie:Horse
+SAA:   >500.0 fg/ml
+Range: 0.0 - 20.0
+Time:  20:22
+Date:  12-01-2018
+
+
+
+Name:  WHIZ
+ID:    34
+Holder:CUNNINGHAM
+Specie:Horse
+SAA:   >500.0 fg/ml
+Range: 0.0 - 20.0
+Time:  12:31
+Date:  14-01-2018
+
+
+
+Name:  HUND
+ID:    35
+Holder:
+Specie:Dog
+Sample:Pipette20f
+LIP:   73.2 U/L
+Range: 0.0 - 125.0
+Time:  15:34
+Date:  16-01-2018
+
+
+
+Name:  MATZELSBERGER
+ID:    36
+Holder:
+Specie:Dog
+Sample:Pipette20f
+LIP:   35.4 U/L
+Range: 0.0 - 125.0
+Time:  11:42
+Date:  17-01-2018
+
+
+
+Name:  38
+ID:    38
+Holder:MOCKER
+Specie:Dog
+Sample:Pipette20f
+LIP:   102.9 U/L
+Range: 0.0 - 125.0
+Time:  15:49
+Date:  20-01-2018
+
+
+
+Name:  39BAMOEL
+ID:    39
+Holder:
+Specie:Dog
+Sample:Pipette20f
+LIP:   181.3 U/L
+Range: 0.0 - 125.0
+Time:  12:48
+Date:  21-01-2018
+
+
+
+Name:  40BANDEL
+ID:    40
+Holder:
+Specie:Dog
+cCRP:  124.0 mg/l
+Range: 0.0 - 10.0
+Time:  13:01
+Date:  21-01-2018

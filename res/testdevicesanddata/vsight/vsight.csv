@@ -1,0 +1,41 @@
+Text Identifier;1
+ID;8
+Sample Mode;1
+Month;2
+Day;2
+Year;4
+Hour;2
+Minutes;2
+WBC;5
+Lymph;5
+Mon;5
+Gran;5
+Lymph;4
+Mon;4
+Gran;4
+RBC;5
+HGB;3
+MCHC;3
+MCV;5
+MCH;5
+RDW;4
+HCT;4
+PLT;4
+MPV;4
+PDW;4
+PCT;4
+Reserved;14
+AnimalType;2
+Reserved;8
+L1 Region;3
+L2 Region;3
+L3 Region;3
+L4 Region;3
+L5 Region;3
+L6 Region;3
+L7 Region;3
+L8 Region;3
+Reserved;16
+WBC Histo;3
+RBC Histo;3
+PLT Histo;3
