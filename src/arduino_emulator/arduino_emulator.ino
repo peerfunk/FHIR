@@ -1,12 +1,8 @@
-
 void setup() {
-  //Initialize serial and wait for port to open:
   Serial.begin(9600);
-  
 }
-
-
 void loop() {
+ //tested on rpi with: sudo cat /dev/serial0
  Serial.println("Name:  40BANDEL");
  Serial.println("ID:    40");
  Serial.println("Holder:");
