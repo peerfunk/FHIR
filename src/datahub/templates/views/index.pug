@@ -1,0 +1,25 @@
+extends ../layouts/home
+
+block content
+	.container: .jumbotron
+		img(src='/images/DataHubLogo_small.png', width='100')
+		h1 Welcome
+		p This is DataHubs status page.
+		#container(style="width: 100%; height: 100%")
+		script().
+			anychart.onDocumentReady(function() {
+				var chart = anychart.column();
+				chart.title("Messages per Devices");
+				chart.container("container");
+				run(chart);		
+				//var myVar = setInterval(run, 5000,chart);
+			});
+			function run(chart){
+				$.ajax({url: "graphdata",success: function(data ){
+					//chart.data(data);
+					console.log(data);
+					chart.column(data);
+					chart.draw();
+				}});				
+			}
+		
